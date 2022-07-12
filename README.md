@@ -1,4 +1,4 @@
-# California_energy_demand_forecast
+# Forescast Californian energy demand
 
 The purpose of this project is to develop a forecast of energy demand in the state of California, USA, 
 for the first days of December 2021.

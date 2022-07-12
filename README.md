@@ -5,7 +5,7 @@ for the first days of December 2021.
 
 Two types of forecasts will be made, a daily one in which we will predict the demand for the first 15 days
 and an hourly one in which we will predict the demand for the first 7 days of December. Each of these
-forecasts follows a different modeling process.
+forecasts follows different modeling processes.
 
 ---------------
 
